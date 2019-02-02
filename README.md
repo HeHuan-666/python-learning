@@ -1,4 +1,4 @@
-#pycharm使用技巧
+# pycharm使用技巧
 - Ctrl+c    复制当前行或选定的代码块到剪贴板
 - Ctrl+x    剪切当前行或选定的代码块到剪贴板
 - Ctrl+v    粘贴
@@ -17,7 +17,7 @@
 - shift+tab  与Tab相反
 - alt+选中像notepad++多行操作
 
-#调试代码
+# 调试代码
 断点：就是程序执行到这个地方就停下来。
 F7：Step Into 进入到代码。
 F8：Step Over 跳到下一步。
