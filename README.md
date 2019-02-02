@@ -19,7 +19,7 @@
 - alt+选中像notepad++多行操作
 
 ## 调试代码
-断点：就是程序执行到这个地方就停下来。
-F7：Step Into 进入到代码。
-F8：Step Over 跳到下一步。
-F9：resume program 恢复程序或者执行到下一个断点。
+- 断点：就是程序执行到这个地方就停下来。
+- F7：Step Into 进入到代码。
+- F8：Step Over 跳到下一步。
+- F9：resume program 恢复程序或者执行到下一个断点。
